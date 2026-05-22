@@ -85,6 +85,8 @@ Incluye:
 
 Tecnologías: Python, Flask, Scikit-learn, Pandas, Joblib, Ollama, HTML/CSS
 
+---
+
 ### 📊 Pipeline Automatizado de Ventas y Business Intelligence
 
 Pipeline automatizado end-to-end para generación, limpieza, almacenamiento, visualización y notificación de datos de ventas.
