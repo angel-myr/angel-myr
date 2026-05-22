@@ -42,8 +42,6 @@ Actualmente sigo construyendo proyectos para fortalecer mi perfil profesional or
 
 ## 🛠️ Tecnologías y herramientas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel-myr&show_icons=true&theme=transparent)
-
 ### Lenguajes
 
 * Python
