@@ -69,24 +69,36 @@ Actualmente sigo construyendo proyectos para fortalecer mi perfil profesional or
 
 ## 📌 Proyectos destacados
 
-### 📊 Aplicación Shiny para análisis académico
+### 🌱 Sistema Inteligente de Recomendación de Fertilizantes
 
-Aplicación interactiva desarrollada en R Shiny para visualizar calificaciones, repitencias y tutorías utilizando datasets reales.
+Aplicación basada en Machine Learning e IA Generativa para recomendar fertilizantes según características agrícolas de una parcela.
 
-**Incluye:**
+Incluye:
 
-* Dashboards interactivos
-* Visualización de indicadores académicos
-* Segmentación y análisis de estudiantes
-* Integración de modelos predictivos
+Modelo predictivo con Random Forest
+Procesamiento y transformación de datos agrícolas
+Interfaz web interactiva
+Explicaciones generadas mediante LLM
+Integración de Flask + Scikit-learn + Ollama API
+Persistencia de modelos y métricas
 
-### ⚙️ Automatización de procesos con Power Automate
+Tecnologías: Python, Flask, Scikit-learn, Pandas, Joblib, Ollama, HTML/CSS
 
-Flujos automatizados orientados a reducir tareas manuales e integrar herramientas como Outlook y Power BI.
+### 📊 Pipeline Automatizado de Ventas y Business Intelligence
 
-### ☁️ Integraciones con APIs y Google Sheets
+Pipeline automatizado end-to-end para generación, limpieza, almacenamiento, visualización y notificación de datos de ventas.
 
-Scripts en Python para registrar y procesar información automáticamente usando APIs y servicios cloud.
+Incluye:
+
+Generación de datos simulados con errores intencionales
+Proceso ETL automatizado
+Limpieza y validación de datos
+Integración con Google Sheets y SQL Server
+Dashboard interactivo en Power BI
+Automatización completa mediante Power Automate
+Notificaciones automáticas por correo
+
+Tecnologías: Python, Pandas, SQL Server, Google Sheets API, Power BI, DAX, Power Automate, SQLAlchemy
 
 ---
 
