@@ -73,14 +73,15 @@ Actualmente sigo construyendo proyectos para fortalecer mi perfil profesional or
 
 Aplicación basada en Machine Learning e IA Generativa para recomendar fertilizantes según características agrícolas de una parcela.
 
-Incluye:
+![](imgs/1.png)
 
-Modelo predictivo con Random Forest
-Procesamiento y transformación de datos agrícolas
-Interfaz web interactiva
-Explicaciones generadas mediante LLM
-Integración de Flask + Scikit-learn + Ollama API
-Persistencia de modelos y métricas
+Incluye:
+* Modelo predictivo con Random Forest
+* Procesamiento y transformación de datos agrícolas
+* Interfaz web interactiva
+* Explicaciones generadas mediante LLM
+* Integración de Flask + Scikit-learn + Ollama API
+* Persistencia de modelos y métricas
 
 Tecnologías: Python, Flask, Scikit-learn, Pandas, Joblib, Ollama, HTML/CSS
 
@@ -88,15 +89,16 @@ Tecnologías: Python, Flask, Scikit-learn, Pandas, Joblib, Ollama, HTML/CSS
 
 Pipeline automatizado end-to-end para generación, limpieza, almacenamiento, visualización y notificación de datos de ventas.
 
-Incluye:
+![](imgs/2.png)
 
-Generación de datos simulados con errores intencionales
-Proceso ETL automatizado
-Limpieza y validación de datos
-Integración con Google Sheets y SQL Server
-Dashboard interactivo en Power BI
-Automatización completa mediante Power Automate
-Notificaciones automáticas por correo
+Incluye:
+* Generación de datos simulados con errores intencionales
+* Proceso ETL automatizado
+* Limpieza y validación de datos
+* Integración con Google Sheets y SQL Server
+* Dashboard interactivo en Power BI
+* Automatización completa mediante Power Automate
+* Notificaciones automáticas por correo
 
 Tecnologías: Python, Pandas, SQL Server, Google Sheets API, Power BI, DAX, Power Automate, SQLAlchemy
 
