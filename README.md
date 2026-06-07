@@ -2,7 +2,7 @@
 
 🎓 Estudiante de Ingeniería de Sistemas e Informática con interés en análisis de datos, automatización de procesos, desarrollo de aplicaciones y transformación digital.
 
-Actualmente me encuentro fortaleciendo mi experiencia mediante proyectos académicos y personales relacionados con:
+Actualmente me encuentro fortaleciendo mi experiencia en proyectos académicos y personales relacionados con:
 
 * 📊 Data Analytics y Business Intelligence
 * 🐍 Python para automatización y análisis de datos
